@@ -12,8 +12,9 @@ tags: portfolio
 
 🔗 [GitHub](https://github.com/tallninja)
 
-📃  [Resume](https://ewambua.com/resume)
+📃  [Resume](https://resume.ewambua.com)
 
-🏗️ [Projects](https://ewambua.com/projects)
+🏗️ [Projects](http://projects.ewambua.com)
 
-✍️ [Articles](https://ewambua.com/articles)
+✍️ [Articles](http://articles.ewambua.com)
+
