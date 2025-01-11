@@ -4,6 +4,7 @@ author: Ernest Wambua
 date: 2025-01-11
 type: portfolio
 tags: portfolio
+layout: layouts/base.njk
 ---
 
 # Ernest Wambua
