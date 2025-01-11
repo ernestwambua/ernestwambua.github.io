@@ -14,6 +14,6 @@ tags: portfolio
 
 📃  [Resume](https://ewambua.com/resume)
 
- [Projects](https://ewambua.com/projects)
+🏗️ [Projects](https://ewambua.com/projects)
 
-  [Articles](https://ewambua.com/articles)
+✍️ [Articles](https://ewambua.com/articles)
