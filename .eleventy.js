@@ -42,8 +42,8 @@ module.exports = function (eleventyConfig) {
     dir: {
       input: ".",    // Look for source files in articles directory
       output: "_site",      // Output to _site directory
-      includes: "../_includes",  // Look for includes in parent directory
-      layouts: "../_includes/layouts"
+      includes: "_includes",  // Look for includes in parent directory
+      layouts: "_includes/layouts"
     },         // Update this if site is not at root of domain
     templateFormats: ["md", "njk"],
     markdownTemplateEngine: "njk"
