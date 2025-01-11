@@ -8,7 +8,7 @@ tags: portfolio
 
 # Ernest Wambua
 
-  [info@ewambua.com](mailto:info@ewambua.com)
+![]() [info@ewambua.com](mailto:info@ewambua.com)
 
   [GitHub](https://github.com/tallninja)
 
