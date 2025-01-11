@@ -8,12 +8,12 @@ tags: portfolio
 
 # Ernest Wambua
 
-![Envelope](assets/envelope-solid.svg) [info@ewambua.com](mailto:info@ewambua.com)
+✉️ [info@ewambua.com](mailto:info@ewambua.com)
 
-  [GitHub](https://github.com/tallninja)
+🔗 [GitHub](https://github.com/tallninja)
 
-󰧮  [Resume](https://ewambua.com/resume)
+📃  [Resume](https://ewambua.com/resume)
 
-  [Projects](https://ewambua.com/projects)
+ [Projects](https://ewambua.com/projects)
 
   [Articles](https://ewambua.com/articles)
